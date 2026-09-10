@@ -1,0 +1,58 @@
+{
+ "regle": "18 % des ciblés commandent, panier moyen × 1.0 après remise ; marge = taux de marque de l'assortiment après remise, moins 3.5 points de coûts logistiques",
+ "elasticite": "+6 % de commandes par point de remise",
+ "seuil_validation_seule_eur": 50000,
+ "marge_plancher_pct": 25.0,
+ "seuil_offre_eur": 2000,
+ "quota_pieces_par_commande": 200,
+ "scenarios": {
+  "a_10": {
+   "remise_pct": 10,
+   "commandes": 29,
+   "chiffre_affaires_eur": 42100,
+   "marge_pct": 26.9,
+   "marge_eur": 11325,
+   "demande_pieces": 3770,
+   "sous_seuil_validation": true,
+   "au_dessus_plancher_marge": true,
+   "couverture_premium_jours": 7.7,
+   "couverture_premium_L_XL_jours": 4.5,
+   "couverture_alternative_jours": 14.2,
+   "couverture_cumul_jours": 22.0
+  },
+  "a_12": {
+   "remise_pct": 12,
+   "commandes": 33,
+   "chiffre_affaires_eur": 46800,
+   "marge_pct": 25.3,
+   "marge_eur": 11840,
+   "demande_pieces": 4290,
+   "sous_seuil_validation": true,
+   "au_dessus_plancher_marge": true,
+   "couverture_premium_jours": 6.8,
+   "couverture_premium_L_XL_jours": 4.0,
+   "couverture_alternative_jours": 12.5,
+   "couverture_cumul_jours": 19.3
+  },
+  "a_15": {
+   "remise_pct": 15,
+   "commandes": 39,
+   "chiffre_affaires_eur": 53400,
+   "marge_pct": 22.8,
+   "marge_eur": 12175,
+   "demande_pieces": 5070,
+   "sous_seuil_validation": false,
+   "au_dessus_plancher_marge": false,
+   "couverture_premium_jours": 5.7,
+   "couverture_premium_L_XL_jours": 3.3,
+   "couverture_alternative_jours": 10.6,
+   "couverture_cumul_jours": 16.3
+  }
+ },
+ "ecart_10_vs_12": {
+  "marge_pts": 1.6,
+  "marge_eur": 515,
+  "commandes": 4,
+  "chiffre_affaires_eur": 4700
+ }
+}

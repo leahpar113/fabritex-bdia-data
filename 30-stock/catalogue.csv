@@ -1,0 +1,121 @@
+reference;produit;libelle;gamme;matiere;grammage_g;coloris;tailles;fournisseur;prix_achat_eur;prix_vente_revendeur_eur;taux_de_marque_pct;delai_reappro_semaines;stock_total
+TS-150-BLA;TS-150;T-shirt classique 150 g;T-shirts;coton peigné;150;blanc;XS S M L XL XXL;Textil Nova;1.57;2.53;37.9;8;1805
+TS-150-NOI;TS-150;T-shirt classique 150 g;T-shirts;coton peigné;150;noir;XS S M L XL XXL;Textil Nova;1.75;2.82;37.9;8;3209
+TS-150-MAR;TS-150;T-shirt classique 150 g;T-shirts;coton peigné;150;marine;XS S M L XL XXL;Textil Nova;1.75;2.82;37.9;8;1915
+TS-150-GRI;TS-150;T-shirt classique 150 g;T-shirts;coton peigné;150;gris chiné;XS S M L XL XXL;Textil Nova;1.75;2.82;37.9;8;1079
+TS-150-ROU;TS-150;T-shirt classique 150 g;T-shirts;coton peigné;150;rouge;XS S M L XL XXL;Textil Nova;1.75;2.82;37.9;8;1649
+TS-150-VER;TS-150;T-shirt classique 150 g;T-shirts;coton peigné;150;vert bouteille;XS S M L XL XXL;Textil Nova;1.75;2.82;37.9;8;1600
+TS-150-BLE;TS-150;T-shirt classique 150 g;T-shirts;coton peigné;150;bleu royal;XS S M L XL XXL;Textil Nova;1.75;2.82;37.9;8;1183
+TS-150-SAB;TS-150;T-shirt classique 150 g;T-shirts;coton peigné;150;sable;XS S M L XL XXL;Textil Nova;1.75;2.82;37.9;8;1104
+TS-165-BLA;TS-165;T-shirt premium 165 g;T-shirts;coton peigné;165;blanc;XS S M L XL XXL;Textil Nova;1.89;3.05;38.0;8;2908
+TS-165-NOI;TS-165;T-shirt premium 165 g;T-shirts;coton peigné;165;noir;XS S M L XL XXL;Textil Nova;2.1;3.39;38.1;8;2935
+TS-165-MAR;TS-165;T-shirt premium 165 g;T-shirts;coton peigné;165;marine;XS S M L XL XXL;Textil Nova;2.1;3.39;38.1;8;2519
+TS-165-GRI;TS-165;T-shirt premium 165 g;T-shirts;coton peigné;165;gris chiné;XS S M L XL XXL;Textil Nova;2.1;3.39;38.1;8;1566
+TS-165-ROU;TS-165;T-shirt premium 165 g;T-shirts;coton peigné;165;rouge;XS S M L XL XXL;Textil Nova;2.1;3.39;38.1;8;1714
+TS-165-VER;TS-165;T-shirt premium 165 g;T-shirts;coton peigné;165;vert bouteille;XS S M L XL XXL;Textil Nova;2.1;3.39;38.1;8;1248
+TS-165-BLE;TS-165;T-shirt premium 165 g;T-shirts;coton peigné;165;bleu royal;XS S M L XL XXL;Textil Nova;2.1;3.39;38.1;8;1116
+TS-165-SAB;TS-165;T-shirt premium 165 g;T-shirts;coton peigné;165;sable;XS S M L XL XXL;Textil Nova;2.1;3.39;38.1;8;1040
+TS-190-BLA;TS-190;T-shirt lourd 190 g;T-shirts;coton peigné;190;blanc;XS S M L XL XXL;Textil Nova;2.34;3.77;37.9;8;3200
+TS-190-NOI;TS-190;T-shirt lourd 190 g;T-shirts;coton peigné;190;noir;XS S M L XL XXL;Textil Nova;2.6;4.19;37.9;8;2243
+TS-190-MAR;TS-190;T-shirt lourd 190 g;T-shirts;coton peigné;190;marine;XS S M L XL XXL;Textil Nova;2.6;4.19;37.9;8;2942
+TS-190-GRI;TS-190;T-shirt lourd 190 g;T-shirts;coton peigné;190;gris chiné;XS S M L XL XXL;Textil Nova;2.6;4.19;37.9;8;1150
+TS-165-EU-BLA;TS-165-EU;T-shirt premium 165 g · fabrication Portugal;T-shirts;coton peigné;165;blanc;XS S M L XL XXL;Malhas do Douro;2.07;3.34;38.0;2;5368
+TS-165-EU-NOI;TS-165-EU;T-shirt premium 165 g · fabrication Portugal;T-shirts;coton peigné;165;noir;XS S M L XL XXL;Malhas do Douro;2.3;3.71;38.0;2;1890
+TS-165-EU-MAR;TS-165-EU;T-shirt premium 165 g · fabrication Portugal;T-shirts;coton peigné;165;marine;XS S M L XL XXL;Malhas do Douro;2.3;3.71;38.0;2;2575
+TS-165-EU-GRI;TS-165-EU;T-shirt premium 165 g · fabrication Portugal;T-shirts;coton peigné;165;gris chiné;XS S M L XL XXL;Malhas do Douro;2.3;3.71;38.0;2;1036
+TS-165-EU-ROU;TS-165-EU;T-shirt premium 165 g · fabrication Portugal;T-shirts;coton peigné;165;rouge;XS S M L XL XXL;Malhas do Douro;2.3;3.71;38.0;2;1727
+TS-165-EU-VER;TS-165-EU;T-shirt premium 165 g · fabrication Portugal;T-shirts;coton peigné;165;vert bouteille;XS S M L XL XXL;Malhas do Douro;2.3;3.71;38.0;2;1506
+TS-165-EU-BLE;TS-165-EU;T-shirt premium 165 g · fabrication Portugal;T-shirts;coton peigné;165;bleu royal;XS S M L XL XXL;Malhas do Douro;2.3;3.71;38.0;2;1521
+TS-165-EU-SAB;TS-165-EU;T-shirt premium 165 g · fabrication Portugal;T-shirts;coton peigné;165;sable;XS S M L XL XXL;Malhas do Douro;2.3;3.71;38.0;2;1523
+TS-160-BIO-BLA;TS-160-BIO;T-shirt bio 160 g;T-shirts;coton biologique;160;blanc;XS S M L XL XXL;Malhas do Douro;3.24;5.23;38.0;2;3015
+TS-160-BIO-NOI;TS-160-BIO;T-shirt bio 160 g;T-shirts;coton biologique;160;noir;XS S M L XL XXL;Malhas do Douro;3.6;5.81;38.0;2;3133
+TS-160-BIO-MAR;TS-160-BIO;T-shirt bio 160 g;T-shirts;coton biologique;160;marine;XS S M L XL XXL;Malhas do Douro;3.6;5.81;38.0;2;2746
+TS-160-BIO-GRI;TS-160-BIO;T-shirt bio 160 g;T-shirts;coton biologique;160;gris chiné;XS S M L XL XXL;Malhas do Douro;3.6;5.81;38.0;2;1377
+TS-160-BIO-ROU;TS-160-BIO;T-shirt bio 160 g;T-shirts;coton biologique;160;rouge;XS S M L XL XXL;Malhas do Douro;3.6;5.81;38.0;2;1411
+TS-160-BIO-VER;TS-160-BIO;T-shirt bio 160 g;T-shirts;coton biologique;160;vert bouteille;XS S M L XL XXL;Malhas do Douro;3.6;5.81;38.0;2;1482
+TS-160-BIO-BLE;TS-160-BIO;T-shirt bio 160 g;T-shirts;coton biologique;160;bleu royal;XS S M L XL XXL;Malhas do Douro;3.6;5.81;38.0;2;1531
+TS-160-BIO-SAB;TS-160-BIO;T-shirt bio 160 g;T-shirts;coton biologique;160;sable;XS S M L XL XXL;Malhas do Douro;3.6;5.81;38.0;2;1224
+TS-F-150-BLA;TS-F-150;T-shirt femme 150 g;T-shirts;coton peigné;150;blanc;XS S M L XL XXL;Textil Nova;1.62;2.61;37.9;8;1824
+TS-F-150-NOI;TS-F-150;T-shirt femme 150 g;T-shirts;coton peigné;150;noir;XS S M L XL XXL;Textil Nova;1.8;2.9;37.9;8;2062
+TS-F-150-MAR;TS-F-150;T-shirt femme 150 g;T-shirts;coton peigné;150;marine;XS S M L XL XXL;Textil Nova;1.8;2.9;37.9;8;2422
+TS-F-150-GRI;TS-F-150;T-shirt femme 150 g;T-shirts;coton peigné;150;gris chiné;XS S M L XL XXL;Textil Nova;1.8;2.9;37.9;8;1787
+TS-F-150-ROU;TS-F-150;T-shirt femme 150 g;T-shirts;coton peigné;150;rouge;XS S M L XL XXL;Textil Nova;1.8;2.9;37.9;8;1376
+TS-F-150-VER;TS-F-150;T-shirt femme 150 g;T-shirts;coton peigné;150;vert bouteille;XS S M L XL XXL;Textil Nova;1.8;2.9;37.9;8;1088
+TS-F-150-BLE;TS-F-150;T-shirt femme 150 g;T-shirts;coton peigné;150;bleu royal;XS S M L XL XXL;Textil Nova;1.8;2.9;37.9;8;1600
+TS-F-150-SAB;TS-F-150;T-shirt femme 150 g;T-shirts;coton peigné;150;sable;XS S M L XL XXL;Textil Nova;1.8;2.9;37.9;8;1125
+TS-E-150-BLA;TS-E-150;T-shirt enfant 150 g;T-shirts;coton peigné;150;blanc;XS S M L XL XXL;Textil Nova;1.4;2.26;38.1;8;2407
+TS-E-150-NOI;TS-E-150;T-shirt enfant 150 g;T-shirts;coton peigné;150;noir;XS S M L XL XXL;Textil Nova;1.55;2.5;38.0;8;2099
+TS-E-150-MAR;TS-E-150;T-shirt enfant 150 g;T-shirts;coton peigné;150;marine;XS S M L XL XXL;Textil Nova;1.55;2.5;38.0;8;2367
+TS-E-150-GRI;TS-E-150;T-shirt enfant 150 g;T-shirts;coton peigné;150;gris chiné;XS S M L XL XXL;Textil Nova;1.55;2.5;38.0;8;1076
+PO-180-BLA;PO-180;Polo piqué 180 g;Polos;piqué de coton;180;blanc;XS S M L XL XXL;Malhas do Douro;4.86;7.59;36.0;2;1456
+PO-180-NOI;PO-180;Polo piqué 180 g;Polos;piqué de coton;180;noir;XS S M L XL XXL;Malhas do Douro;5.4;8.44;36.0;2;972
+PO-180-MAR;PO-180;Polo piqué 180 g;Polos;piqué de coton;180;marine;XS S M L XL XXL;Malhas do Douro;5.4;8.44;36.0;2;1462
+PO-180-GRI;PO-180;Polo piqué 180 g;Polos;piqué de coton;180;gris chiné;XS S M L XL XXL;Malhas do Douro;5.4;8.44;36.0;2;762
+PO-180-ROU;PO-180;Polo piqué 180 g;Polos;piqué de coton;180;rouge;XS S M L XL XXL;Malhas do Douro;5.4;8.44;36.0;2;496
+PO-180-VER;PO-180;Polo piqué 180 g;Polos;piqué de coton;180;vert bouteille;XS S M L XL XXL;Malhas do Douro;5.4;8.44;36.0;2;762
+PO-180-BLE;PO-180;Polo piqué 180 g;Polos;piqué de coton;180;bleu royal;XS S M L XL XXL;Malhas do Douro;5.4;8.44;36.0;2;876
+PO-180-SAB;PO-180;Polo piqué 180 g;Polos;piqué de coton;180;sable;XS S M L XL XXL;Malhas do Douro;5.4;8.44;36.0;2;661
+PO-220-BLA;PO-220;Polo piqué lourd 220 g;Polos;coton lourd;220;blanc;XS S M L XL XXL;Ege Tekstil;5.49;8.58;36.0;4;1293
+PO-220-NOI;PO-220;Polo piqué lourd 220 g;Polos;coton lourd;220;noir;XS S M L XL XXL;Ege Tekstil;6.1;9.53;36.0;4;1183
+PO-220-MAR;PO-220;Polo piqué lourd 220 g;Polos;coton lourd;220;marine;XS S M L XL XXL;Ege Tekstil;6.1;9.53;36.0;4;894
+PO-220-GRI;PO-220;Polo piqué lourd 220 g;Polos;coton lourd;220;gris chiné;XS S M L XL XXL;Ege Tekstil;6.1;9.53;36.0;4;788
+PO-F-180-BLA;PO-F-180;Polo femme piqué 180 g;Polos;piqué de coton;180;blanc;XS S M L XL XXL;Malhas do Douro;4.95;7.73;36.0;2;1586
+PO-F-180-NOI;PO-F-180;Polo femme piqué 180 g;Polos;piqué de coton;180;noir;XS S M L XL XXL;Malhas do Douro;5.5;8.59;36.0;2;1421
+PO-F-180-MAR;PO-F-180;Polo femme piqué 180 g;Polos;piqué de coton;180;marine;XS S M L XL XXL;Malhas do Douro;5.5;8.59;36.0;2;1046
+PO-F-180-GRI;PO-F-180;Polo femme piqué 180 g;Polos;piqué de coton;180;gris chiné;XS S M L XL XXL;Malhas do Douro;5.5;8.59;36.0;2;811
+PO-F-180-ROU;PO-F-180;Polo femme piqué 180 g;Polos;piqué de coton;180;rouge;XS S M L XL XXL;Malhas do Douro;5.5;8.59;36.0;2;479
+PO-F-180-VER;PO-F-180;Polo femme piqué 180 g;Polos;piqué de coton;180;vert bouteille;XS S M L XL XXL;Malhas do Douro;5.5;8.59;36.0;2;688
+PO-F-180-BLE;PO-F-180;Polo femme piqué 180 g;Polos;piqué de coton;180;bleu royal;XS S M L XL XXL;Malhas do Douro;5.5;8.59;36.0;2;645
+PO-F-180-SAB;PO-F-180;Polo femme piqué 180 g;Polos;piqué de coton;180;sable;XS S M L XL XXL;Malhas do Douro;5.5;8.59;36.0;2;860
+SP-140-BLA;SP-140;Maillot respirant 140 g;Sport;polyester respirant;140;blanc;XS S M L XL XXL;Atlas Confection;2.16;3.43;37.0;3;1228
+SP-140-NOI;SP-140;Maillot respirant 140 g;Sport;polyester respirant;140;noir;XS S M L XL XXL;Atlas Confection;2.4;3.81;37.0;3;1834
+SP-140-MAR;SP-140;Maillot respirant 140 g;Sport;polyester respirant;140;marine;XS S M L XL XXL;Atlas Confection;2.4;3.81;37.0;3;1824
+SP-140-GRI;SP-140;Maillot respirant 140 g;Sport;polyester respirant;140;gris chiné;XS S M L XL XXL;Atlas Confection;2.4;3.81;37.0;3;977
+SP-140-ROU;SP-140;Maillot respirant 140 g;Sport;polyester respirant;140;rouge;XS S M L XL XXL;Atlas Confection;2.4;3.81;37.0;3;730
+SP-140-VER;SP-140;Maillot respirant 140 g;Sport;polyester respirant;140;vert bouteille;XS S M L XL XXL;Atlas Confection;2.4;3.81;37.0;3;1149
+SP-140-BLE;SP-140;Maillot respirant 140 g;Sport;polyester respirant;140;bleu royal;XS S M L XL XXL;Atlas Confection;2.4;3.81;37.0;3;939
+SP-140-SAB;SP-140;Maillot respirant 140 g;Sport;polyester respirant;140;sable;XS S M L XL XXL;Atlas Confection;2.4;3.81;37.0;3;627
+SP-MESH-BLA;SP-MESH;Maillot mesh 130 g;Sport;mesh;130;blanc;XS S M L XL XXL;Atlas Confection;2.38;3.78;37.0;3;1964
+SP-MESH-NOI;SP-MESH;Maillot mesh 130 g;Sport;mesh;130;noir;XS S M L XL XXL;Atlas Confection;2.65;4.21;37.1;3;2016
+SP-MESH-MAR;SP-MESH;Maillot mesh 130 g;Sport;mesh;130;marine;XS S M L XL XXL;Atlas Confection;2.65;4.21;37.1;3;1698
+SP-MESH-GRI;SP-MESH;Maillot mesh 130 g;Sport;mesh;130;gris chiné;XS S M L XL XXL;Atlas Confection;2.65;4.21;37.1;3;627
+SP-MESH-ROU;SP-MESH;Maillot mesh 130 g;Sport;mesh;130;rouge;XS S M L XL XXL;Atlas Confection;2.65;4.21;37.1;3;698
+SP-MESH-VER;SP-MESH;Maillot mesh 130 g;Sport;mesh;130;vert bouteille;XS S M L XL XXL;Atlas Confection;2.65;4.21;37.1;3;774
+SP-MESH-BLE;SP-MESH;Maillot mesh 130 g;Sport;mesh;130;bleu royal;XS S M L XL XXL;Atlas Confection;2.65;4.21;37.1;3;780
+SP-MESH-SAB;SP-MESH;Maillot mesh 130 g;Sport;mesh;130;sable;XS S M L XL XXL;Atlas Confection;2.65;4.21;37.1;3;645
+SP-SHORT-BLA;SP-SHORT;Short sport 120 g;Sport;polyester respirant;120;blanc;XS S M L XL XXL;Atlas Confection;1.98;3.14;36.9;3;1894
+SP-SHORT-NOI;SP-SHORT;Short sport 120 g;Sport;polyester respirant;120;noir;XS S M L XL XXL;Atlas Confection;2.2;3.49;37.0;3;1849
+SP-SHORT-MAR;SP-SHORT;Short sport 120 g;Sport;polyester respirant;120;marine;XS S M L XL XXL;Atlas Confection;2.2;3.49;37.0;3;1401
+SP-SHORT-GRI;SP-SHORT;Short sport 120 g;Sport;polyester respirant;120;gris chiné;XS S M L XL XXL;Atlas Confection;2.2;3.49;37.0;3;798
+SP-DEB-BLA;SP-DEB;Débardeur respirant 130 g;Sport;polyester respirant;130;blanc;XS S M L XL XXL;Atlas Confection;1.84;2.92;37.0;3;2022
+SP-DEB-NOI;SP-DEB;Débardeur respirant 130 g;Sport;polyester respirant;130;noir;XS S M L XL XXL;Atlas Confection;2.05;3.25;36.9;3;1440
+SP-DEB-MAR;SP-DEB;Débardeur respirant 130 g;Sport;polyester respirant;130;marine;XS S M L XL XXL;Atlas Confection;2.05;3.25;36.9;3;1824
+SP-DEB-GRI;SP-DEB;Débardeur respirant 130 g;Sport;polyester respirant;130;gris chiné;XS S M L XL XXL;Atlas Confection;2.05;3.25;36.9;3;637
+SP-DEB-ROU;SP-DEB;Débardeur respirant 130 g;Sport;polyester respirant;130;rouge;XS S M L XL XXL;Atlas Confection;2.05;3.25;36.9;3;636
+SP-DEB-VER;SP-DEB;Débardeur respirant 130 g;Sport;polyester respirant;130;vert bouteille;XS S M L XL XXL;Atlas Confection;2.05;3.25;36.9;3;690
+SP-DEB-BLE;SP-DEB;Débardeur respirant 130 g;Sport;polyester respirant;130;bleu royal;XS S M L XL XXL;Atlas Confection;2.05;3.25;36.9;3;730
+SP-DEB-SAB;SP-DEB;Débardeur respirant 130 g;Sport;polyester respirant;130;sable;XS S M L XL XXL;Atlas Confection;2.05;3.25;36.9;3;811
+SW-280-BLA;SW-280;Sweat col rond 280 g;Sweats;molleton;280;blanc;XS S M L XL XXL;Ege Tekstil;7.38;11.35;35.0;4;843
+SW-280-NOI;SW-280;Sweat col rond 280 g;Sweats;molleton;280;noir;XS S M L XL XXL;Ege Tekstil;8.2;12.62;35.0;4;602
+SW-280-MAR;SW-280;Sweat col rond 280 g;Sweats;molleton;280;marine;XS S M L XL XXL;Ege Tekstil;8.2;12.62;35.0;4;838
+SW-280-GRI;SW-280;Sweat col rond 280 g;Sweats;molleton;280;gris chiné;XS S M L XL XXL;Ege Tekstil;8.2;12.62;35.0;4;407
+SW-CAP-BLA;SW-CAP;Sweat à capuche 280 g;Sweats;molleton;280;blanc;XS S M L XL XXL;Ege Tekstil;8.64;13.29;35.0;4;811
+SW-CAP-NOI;SW-CAP;Sweat à capuche 280 g;Sweats;molleton;280;noir;XS S M L XL XXL;Ege Tekstil;9.6;14.77;35.0;4;805
+SW-CAP-MAR;SW-CAP;Sweat à capuche 280 g;Sweats;molleton;280;marine;XS S M L XL XXL;Ege Tekstil;9.6;14.77;35.0;4;727
+SW-CAP-GRI;SW-CAP;Sweat à capuche 280 g;Sweats;molleton;280;gris chiné;XS S M L XL XXL;Ege Tekstil;9.6;14.77;35.0;4;427
+SW-CAP-ROU;SW-CAP;Sweat à capuche 280 g;Sweats;molleton;280;rouge;XS S M L XL XXL;Ege Tekstil;9.6;14.77;35.0;4;352
+SW-CAP-VER;SW-CAP;Sweat à capuche 280 g;Sweats;molleton;280;vert bouteille;XS S M L XL XXL;Ege Tekstil;9.6;14.77;35.0;4;351
+SW-CAP-BLE;SW-CAP;Sweat à capuche 280 g;Sweats;molleton;280;bleu royal;XS S M L XL XXL;Ege Tekstil;9.6;14.77;35.0;4;461
+SW-CAP-SAB;SW-CAP;Sweat à capuche 280 g;Sweats;molleton;280;sable;XS S M L XL XXL;Ege Tekstil;9.6;14.77;35.0;4;287
+CA-5P-BLA;CA-5P;Casquette 5 panneaux;Accessoires;coton lourd;0;blanc;TU;Ege Tekstil;2.07;3.45;40.0;4;1132
+CA-5P-NOI;CA-5P;Casquette 5 panneaux;Accessoires;coton lourd;0;noir;TU;Ege Tekstil;2.3;3.83;39.9;4;1102
+CA-5P-MAR;CA-5P;Casquette 5 panneaux;Accessoires;coton lourd;0;marine;TU;Ege Tekstil;2.3;3.83;39.9;4;1296
+CA-5P-GRI;CA-5P;Casquette 5 panneaux;Accessoires;coton lourd;0;gris chiné;TU;Ege Tekstil;2.3;3.83;39.9;4;430
+CA-5P-ROU;CA-5P;Casquette 5 panneaux;Accessoires;coton lourd;0;rouge;TU;Ege Tekstil;2.3;3.83;39.9;4;589
+CA-5P-VER;CA-5P;Casquette 5 panneaux;Accessoires;coton lourd;0;vert bouteille;TU;Ege Tekstil;2.3;3.83;39.9;4;561
+CA-5P-BLE;CA-5P;Casquette 5 panneaux;Accessoires;coton lourd;0;bleu royal;TU;Ege Tekstil;2.3;3.83;39.9;4;562
+CA-5P-SAB;CA-5P;Casquette 5 panneaux;Accessoires;coton lourd;0;sable;TU;Ege Tekstil;2.3;3.83;39.9;4;511
+TB-COT-BLA;TB-COT;Tote bag coton 140 g;Accessoires;coton peigné;140;blanc;TU;Textil Nova;0.85;1.42;40.1;8;776
+TB-COT-NOI;TB-COT;Tote bag coton 140 g;Accessoires;coton peigné;140;noir;TU;Textil Nova;0.95;1.58;39.9;8;1181
+TB-COT-MAR;TB-COT;Tote bag coton 140 g;Accessoires;coton peigné;140;marine;TU;Textil Nova;0.95;1.58;39.9;8;1096
+TB-COT-GRI;TB-COT;Tote bag coton 140 g;Accessoires;coton peigné;140;gris chiné;TU;Textil Nova;0.95;1.58;39.9;8;546

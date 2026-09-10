@@ -1,0 +1,619 @@
+{
+ "corpus": "Étape 5 · la validation · démo Salon BDIA",
+ "genere_le": "2026-09-09",
+ "source": "pistes/donnees/*.json (règles v1, données synthétiques)",
+ "execution": "run-2026-06-01-0847",
+ "documents": [
+  {
+   "fichier": "00-contexte/calendrier.md",
+   "titre": "Le calendrier de l'opération Vague de chaleur",
+   "agent": "tous",
+   "sujets": [
+    "calendrier",
+    "dates",
+    "tournoi",
+    "météo",
+    "envoi",
+    "offre"
+   ],
+   "format": "md",
+   "resume": "Toutes les dates de l'opération et ce que chacune fixe.",
+   "octets": 1514
+  },
+  {
+   "fichier": "00-contexte/camille-roux.md",
+   "titre": "Camille Roux, responsable des ventes revendeurs",
+   "agent": "orchestrateur",
+   "sujets": [
+    "Camille",
+    "validation",
+    "droits",
+    "plafond",
+    "plancher",
+    "refus"
+   ],
+   "format": "md",
+   "resume": "La personne qui valide : ses droits (plafond 50 000 €, plancher 25 %), ses trois actions, le second regard, le refus.",
+   "octets": 1899
+  },
+  {
+   "fichier": "00-contexte/distributeur.md",
+   "titre": "Le distributeur Fabritex et son marché",
+   "agent": "tous",
+   "sujets": [
+    "distributeur",
+    "décor",
+    "revendeurs",
+    "entrepôts",
+    "délais"
+   ],
+   "format": "md",
+   "resume": "Le distributeur fictif, ses chiffres, ses entrepôts, ses revendeurs et l'enchaînement des délais qui explique le calendrier.",
+   "octets": 2118
+  },
+  {
+   "fichier": "00-contexte/entrepots.md",
+   "titre": "Les quatre entrepôts et ce qu'ils livrent",
+   "agent": "achats",
+   "sujets": [
+    "entrepôts",
+    "livraison",
+    "zones",
+    "délais"
+   ],
+   "format": "md",
+   "resume": "Les quatre entrepôts, leurs zones, leurs délais, et ce que la promesse de livraison engage.",
+   "octets": 1120
+  },
+  {
+   "fichier": "00-contexte/equipe-agents.md",
+   "titre": "L'équipe d'agents et ce que chacun signe",
+   "agent": "tous",
+   "sujets": [
+    "agents",
+    "orchestrateur",
+    "rôles",
+    "statuts",
+    "réel",
+    "simulé"
+   ],
+   "format": "md",
+   "resume": "Les six agents, ce que chacun produit et signe, les statuts affichés, ce qui est réel ou simulé pendant le direct.",
+   "octets": 2611
+  },
+  {
+   "fichier": "00-contexte/execution.md",
+   "titre": "Identité de l'exécution et traçabilité",
+   "agent": "orchestrateur",
+   "sujets": [
+    "exécution",
+    "traçabilité",
+    "sources",
+    "rejeu"
+   ],
+   "format": "md",
+   "resume": "L'identifiant de l'exécution, le mode réel ou rejeu, et la correspondance entre les sources ouvrables et les fichiers du corpus.",
+   "octets": 1380
+  },
+  {
+   "fichier": "00-contexte/saisonnalite.md",
+   "titre": "Les ventes au fil des mois",
+   "agent": "veille, ventes",
+   "sujets": [
+    "saisonnalité",
+    "ventes",
+    "mois",
+    "gammes",
+    "historique"
+   ],
+   "format": "md",
+   "resume": "Les commandes et le chiffre d'affaires mois par mois, les t-shirts en pièces sur trois ans, et ce que la cible achète par gamme.",
+   "octets": 2337
+  },
+  {
+   "fichier": "10-opportunite/episodes.json",
+   "titre": "Historique : épisodes de chaleur et tournois passés, avec la hausse mesurée",
+   "agent": "veille",
+   "sujets": [
+    "historique",
+    "épisodes",
+    "tournois",
+    "mesures"
+   ],
+   "format": "json",
+   "resume": "Les mesures historiques et leur méthode, en JSON. Pas de paramètre de génération, pas de compteur.",
+   "octets": 776
+  },
+  {
+   "fichier": "10-opportunite/operations-passees.md",
+   "titre": "Les trois opérations passées, et ce qu'on en a appris",
+   "agent": "veille, analyse, orchestrateur",
+   "sujets": [
+    "opérations passées",
+    "historique",
+    "leçons",
+    "tournoi",
+    "chaleur"
+   ],
+   "format": "md",
+   "resume": "Trois opérations des saisons passées, leur résultat mesuré, et les règles actuelles qui en découlent.",
+   "octets": 2625
+  },
+  {
+   "fichier": "10-opportunite/opportunite-tournoi-20-juin.md",
+   "titre": "L'opportunité retenue : équiper les revendeurs avant le tournoi du 20 juin",
+   "agent": "veille, orchestrateur",
+   "sujets": [
+    "opportunité",
+    "déclenchement",
+    "tournoi",
+    "chaleur",
+    "pourquoi",
+    "signaux écartés",
+    "cycle suivant"
+   ],
+   "format": "md",
+   "resume": "L'opportunité retenue : ses deux signaux et leur rôle, la règle appliquée avec les dates, ce qui dépend de chacun, ce qui se passe si la chaleur ne vient pas, les 45 autres signaux et pourquoi pas, le cycle suivant.",
+   "octets": 5868
+  },
+  {
+   "fichier": "10-opportunite/regle-de-declenchement.md",
+   "titre": "La règle de déclenchement d'une opportunité",
+   "agent": "veille, orchestrateur",
+   "sujets": [
+    "règle",
+    "déclenchement",
+    "signaux",
+    "rôles",
+    "statuts",
+    "motifs",
+    "fenêtre"
+   ],
+   "format": "md",
+   "resume": "Le vocabulaire (signal, opportunité, opération), les rôles, les trois conditions, ce que dit l'historique, les décisions et leurs motifs, les conventions.",
+   "octets": 4041
+  },
+  {
+   "fichier": "10-opportunite/signal-chaleur-sud-est-11-juin.md",
+   "titre": "Signal SIG-CHALEUR-SE-2026-06-11 — Pic de chaleur annoncé, Sud-Est",
+   "agent": "veille",
+   "sujets": [
+    "signal",
+    "chaleur",
+    "météo",
+    "prévision",
+    "Sud-Est",
+    "réévaluation"
+   ],
+   "format": "md",
+   "resume": "Le signal de la chaleur : sa fiche de prévision, ses évaluations datées, l'effet mesuré des épisodes passés, ce qu'il renforce sans fixer.",
+   "octets": 1832
+  },
+  {
+   "fichier": "10-opportunite/signal-tournoi-20-juin.md",
+   "titre": "Signal SIG-TOURNOI-2026-06-20 — Grand tournoi de football, coup d'envoi",
+   "agent": "veille",
+   "sujets": [
+    "signal",
+    "tournoi",
+    "échéance",
+    "fenêtre de commande",
+    "historique"
+   ],
+   "format": "md",
+   "resume": "Le signal du tournoi : sa fiche, pourquoi il induit la fenêtre de commande, l'effet mesuré des tournois passés.",
+   "octets": 1544
+  },
+  {
+   "fichier": "10-opportunite/signaux-suivis.md",
+   "titre": "Les 47 signaux suivis, examinés le 1er juin 2026",
+   "agent": "veille, orchestrateur",
+   "sujets": [
+    "signaux",
+    "veille",
+    "liste",
+    "écartés",
+    "motifs"
+   ],
+   "format": "md",
+   "resume": "La liste des 47 signaux par nature, avec la décision et le motif de chacun.",
+   "octets": 5610
+  },
+  {
+   "fichier": "20-cible/ciblage.md",
+   "titre": "La cible : 185 revendeurs, quatre critères, deux groupes",
+   "agent": "ventes",
+   "sujets": [
+    "cible",
+    "critères",
+    "filtrage",
+    "actifs",
+    "dormants",
+    "opposants",
+    "revendeurs"
+   ],
+   "format": "md",
+   "resume": "Les critères, le filtrage avec ses effectifs, les deux groupes, la fiche exemple, le réglage cible.",
+   "octets": 1926
+  },
+  {
+   "fichier": "20-cible/opposants-exclus.csv",
+   "titre": "Les 11 revendeurs éligibles mais opposés à la prospection",
+   "agent": "ventes",
+   "sujets": [
+    "revendeurs",
+    "cible"
+   ],
+   "format": "csv",
+   "resume": "Éligibles sur les quatre critères, retirés parce qu'opposés à la prospection.",
+   "octets": 1468
+  },
+  {
+   "fichier": "20-cible/revendeurs-cible.csv",
+   "titre": "Les 185 revendeurs ciblés",
+   "agent": "ventes",
+   "sujets": [
+    "revendeurs",
+    "cible"
+   ],
+   "format": "csv",
+   "resume": "Un revendeur par ligne : métier, ville, groupe, panier, commandes, clients finaux.",
+   "octets": 22018
+  },
+  {
+   "fichier": "20-cible/revendeurs-portraits.md",
+   "titre": "Six revendeurs, pour rendre la base concrète",
+   "agent": "ventes, orchestrateur",
+   "sujets": [
+    "revendeurs",
+    "portraits",
+    "exemples",
+    "cible"
+   ],
+   "format": "md",
+   "resume": "Six revendeurs pris dans la base, un par cas que l'opération distingue.",
+   "octets": 2863
+  },
+  {
+   "fichier": "20-cible/revendeurs-repartition.md",
+   "titre": "Les 2 400 revendeurs : qui ils sont",
+   "agent": "ventes",
+   "sujets": [
+    "revendeurs",
+    "répartition",
+    "métiers",
+    "tailles",
+    "villes",
+    "clients finaux"
+   ],
+   "format": "md",
+   "resume": "La base des revendeurs par métier, taille, statut, clientèle finale et ville, avec ce que chaque catégorie veut dire.",
+   "octets": 1869
+  },
+  {
+   "fichier": "20-cible/revendeurs.csv",
+   "titre": "La base des 2 400 revendeurs",
+   "agent": "ventes",
+   "sujets": [
+    "revendeurs",
+    "base"
+   ],
+   "format": "csv",
+   "resume": "Une ligne par revendeur, avec les quatre critères de ciblage évalués et l'appartenance à la cible.",
+   "octets": 318477
+  },
+  {
+   "fichier": "30-stock/catalogue-gammes.md",
+   "titre": "Le catalogue : gammes et taux de marque",
+   "agent": "marketing",
+   "sujets": [
+    "catalogue",
+    "gammes",
+    "marge"
+   ],
+   "format": "md",
+   "resume": "Les gammes du catalogue, leurs taux de marque, les gammes couvertes par l'offre.",
+   "octets": 2235
+  },
+  {
+   "fichier": "30-stock/catalogue-produits.md",
+   "titre": "Le catalogue complet : 18 produits, 120 références",
+   "agent": "achats, marketing",
+   "sujets": [
+    "catalogue",
+    "produits",
+    "références",
+    "prix",
+    "coloris",
+    "stock"
+   ],
+   "format": "md",
+   "resume": "Une fiche par produit, avec sa description, son usage, son fournisseur, et ses références coloris par coloris avec prix et stock.",
+   "octets": 16985
+  },
+  {
+   "fichier": "30-stock/catalogue-ts165.json",
+   "titre": "Catalogue : les références TS-165 et TS-165-EU",
+   "agent": "achats",
+   "sujets": [
+    "catalogue",
+    "références",
+    "prix"
+   ],
+   "format": "json",
+   "resume": "Les seize références des deux produits, avec prix d'achat, prix revendeur, marge, délai.",
+   "octets": 6764
+  },
+  {
+   "fichier": "30-stock/catalogue.csv",
+   "titre": "Le catalogue, 120 références en table",
+   "agent": "achats, marketing",
+   "sujets": [
+    "catalogue"
+   ],
+   "format": "csv",
+   "resume": "Une ligne par référence : produit, gamme, matière, coloris, fournisseur, prix, taux de marque, délai, stock.",
+   "octets": 15549
+  },
+  {
+   "fichier": "30-stock/fournisseurs.md",
+   "titre": "Les fournisseurs et leurs délais",
+   "agent": "achats",
+   "sujets": [
+    "fournisseurs",
+    "délais",
+    "transport",
+    "conteneur",
+    "retard"
+   ],
+   "format": "md",
+   "resume": "Les quatre fournisseurs, les deux qui comptent pour l'arbitrage, l'avis de retard du conteneur.",
+   "octets": 1183
+  },
+  {
+   "fichier": "30-stock/grille-prix-2026.md",
+   "titre": "Grille de prix 2026 — extrait",
+   "agent": "achats",
+   "sujets": [
+    "prix",
+    "grille",
+    "marge",
+    "HT"
+   ],
+   "format": "md",
+   "resume": "Les prix HT des deux références et la marge après remise.",
+   "octets": 751
+  },
+  {
+   "fichier": "30-stock/stocks-par-entrepot.md",
+   "titre": "Les stocks au 1er juin 2026, par entrepôt et par gamme",
+   "agent": "achats",
+   "sujets": [
+    "stocks",
+    "entrepôts",
+    "gammes"
+   ],
+   "format": "md",
+   "resume": "Les stocks de tout le catalogue, par gamme et par entrepôt, et les références basses des gammes de l'offre.",
+   "octets": 1718
+  },
+  {
+   "fichier": "30-stock/stocks-ts165.csv",
+   "titre": "Stocks des deux références, par ligne",
+   "agent": "achats",
+   "sujets": [
+    "stocks"
+   ],
+   "format": "csv",
+   "resume": "Une ligne par référence × entrepôt × taille.",
+   "octets": 3427
+  },
+  {
+   "fichier": "30-stock/stocks-ts165.md",
+   "titre": "Stocks par entrepôt et par taille au 1er juin 2026",
+   "agent": "achats",
+   "sujets": [
+    "stocks",
+    "entrepôts",
+    "tailles",
+    "TS-165-BLA",
+    "TS-165-EU-BLA"
+   ],
+   "format": "md",
+   "resume": "Les deux références en tension, entrepôt par entrepôt et taille par taille, avec les totaux.",
+   "octets": 1354
+  },
+  {
+   "fichier": "30-stock/stocks.csv",
+   "titre": "Les stocks de toutes les références, par ligne",
+   "agent": "achats",
+   "sujets": [
+    "stocks"
+   ],
+   "format": "csv",
+   "resume": "2640 lignes : référence × entrepôt × taille.",
+   "octets": 97920
+  },
+  {
+   "fichier": "30-stock/tension-stock-premium.md",
+   "titre": "La tension de stock sur le premium blanc, et l'arbitrage",
+   "agent": "achats",
+   "sujets": [
+    "stock",
+    "rupture",
+    "tension",
+    "options",
+    "arbitrage",
+    "relais",
+    "Portugal",
+    "couverture"
+   ],
+   "format": "md",
+   "resume": "Le conflit de stock : chiffres, trois options, arbitrage, critères signés, couverture selon la remise.",
+   "octets": 3607
+  },
+  {
+   "fichier": "40-offre/email-actifs.md",
+   "titre": "E-mail de campagne — version actifs (112 destinataires)",
+   "agent": "marketing",
+   "sujets": [
+    "e-mail",
+    "actifs",
+    "texte"
+   ],
+   "format": "md",
+   "resume": "Le texte complet de l'e-mail aux actifs, avec le taux en variable et un exemple rendu.",
+   "octets": 2888
+  },
+  {
+   "fichier": "40-offre/email-dormants.md",
+   "titre": "E-mail de campagne — version dormants (73 destinataires)",
+   "agent": "marketing",
+   "sujets": [
+    "e-mail",
+    "dormants",
+    "texte"
+   ],
+   "format": "md",
+   "resume": "Le texte complet de l'e-mail aux dormants, avec le taux en variable et un exemple rendu.",
+   "octets": 3026
+  },
+  {
+   "fichier": "40-offre/offre.md",
+   "titre": "L'offre Vague de chaleur : conditions et leviers",
+   "agent": "marketing",
+   "sujets": [
+    "offre",
+    "remise",
+    "seuil",
+    "quota",
+    "livraison",
+    "conditions"
+   ],
+   "format": "md",
+   "resume": "Les conditions de l'offre, ses deux leviers, le quota, ce qui change avec la remise.",
+   "octets": 2172
+  },
+  {
+   "fichier": "50-prevision/regle-de-prevision.md",
+   "titre": "La règle de prévision",
+   "agent": "orchestrateur",
+   "sujets": [
+    "prévision",
+    "règle",
+    "conversion",
+    "marge",
+    "élasticité",
+    "demande"
+   ],
+   "format": "md",
+   "resume": "Comment l'orchestrateur calcule commandes, chiffre d'affaires, marge et demande, et les seuils qu'il contrôle.",
+   "octets": 1166
+  },
+  {
+   "fichier": "50-prevision/regles-de-decision.md",
+   "titre": "Les règles de décision de l'étape 5",
+   "agent": "orchestrateur",
+   "sujets": [
+    "décision",
+    "validation",
+    "second regard",
+    "refus",
+    "annulation",
+    "replanification",
+    "échec"
+   ],
+   "format": "md",
+   "resume": "Ce que fait l'équipe pour chaque décision de Camille : valider, modifier, second regard, refuser, plus tard, échec.",
+   "octets": 2757
+  },
+  {
+   "fichier": "50-prevision/scenarios-remise.json",
+   "titre": "Les trois scénarios de remise, en JSON",
+   "agent": "orchestrateur",
+   "sujets": [
+    "prévision",
+    "scénarios",
+    "remise"
+   ],
+   "format": "json",
+   "resume": "Les scénarios à 10, 12 et 15 % avec toutes leurs valeurs, et l'écart 10 contre 12.",
+   "octets": 1654
+  },
+  {
+   "fichier": "50-prevision/scenarios-remise.md",
+   "titre": "Les trois scénarios de remise, et comment les dire",
+   "agent": "orchestrateur",
+   "sujets": [
+    "prévision",
+    "scénarios",
+    "remise",
+    "écart",
+    "impact"
+   ],
+   "format": "md",
+   "resume": "Les trois scénarios côte à côte, les écarts, et les phrases exactes pour les dire.",
+   "octets": 1957
+  },
+  {
+   "fichier": "60-presentation/gabarit-conversation.md",
+   "titre": "Gabarit B — la conversation (un fil de messages)",
+   "agent": "orchestrateur",
+   "sujets": [
+    "conversation",
+    "messages",
+    "fil",
+    "réponses proposées",
+    "boutons"
+   ],
+   "format": "md",
+   "resume": "La séquence des messages de la conversation, les réponses à chaque question, les boutons, les règles du fil.",
+   "octets": 3776
+  },
+  {
+   "fichier": "60-presentation/gabarit-dossier.md",
+   "titre": "Gabarit A — le dossier (un seul écran)",
+   "agent": "orchestrateur",
+   "sujets": [
+    "dossier",
+    "écran",
+    "blocs",
+    "libellés",
+    "boutons",
+    "panneau pourquoi"
+   ],
+   "format": "md",
+   "resume": "La structure exacte de l'écran unique : blocs, libellés, panneaux, états après réglage et après validation.",
+   "octets": 4156
+  },
+  {
+   "fichier": "60-presentation/phrases-et-regles-de-style.md",
+   "titre": "Phrases clés et règles d'écriture pour les agents",
+   "agent": "tous",
+   "sujets": [
+    "style",
+    "phrases",
+    "vocabulaire",
+    "chiffres",
+    "HT"
+   ],
+   "format": "md",
+   "resume": "Les règles d'écriture communes aux agents, les phrases clés, la ligne de statut de chaque agent.",
+   "octets": 2505
+  },
+  {
+   "fichier": "60-presentation/script-animateur.md",
+   "titre": "Le script minuté de l'animateur, deux minutes trente",
+   "agent": "animateur",
+   "sujets": [
+    "script",
+    "animateur",
+    "minutage",
+    "direct"
+   ],
+   "format": "md",
+   "resume": "Le script minuté, avec les gestes pour chaque modèle.",
+   "octets": 3377
+  }
+ ]
+}

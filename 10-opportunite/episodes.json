@@ -1,0 +1,42 @@
+{
+ "methode": "Hausse moyenne des ventes journalières de t-shirts, tous produits, dans la fenêtre de mesure, par rapport à une période de même durée juste avant. Source : ventes_tshirts_jour.json (série synthétique 2024-01-01 → 2026-05-31).",
+ "chaleur": {
+  "fenetre_mesure_jours_avant_pic": [
+   8,
+   18
+  ],
+  "episodes": [
+   {
+    "pic": "2024-07-18",
+    "uplift_pct": 37
+   },
+   {
+    "pic": "2025-08-05",
+    "uplift_pct": 30
+   },
+   {
+    "pic": "2025-08-26",
+    "uplift_pct": 19
+   }
+  ],
+  "min_pct": 19,
+  "max_pct": 37,
+  "mediane_pct": 30
+ },
+ "tournois": {
+  "fenetre_mesure_jours_avant": [
+   8,
+   22
+  ],
+  "episodes": [
+   {
+    "date": "2024-06-14",
+    "uplift_pct": 29
+   },
+   {
+    "date": "2025-07-05",
+    "uplift_pct": 27
+   }
+  ]
+ }
+}

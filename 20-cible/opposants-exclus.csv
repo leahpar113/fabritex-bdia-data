@@ -1,0 +1,12 @@
+id;nom;metier;ville;sud_est;taille;groupe;derniere_commande;jours_depuis_derniere_commande;panier_moyen_eur;commandes_12_mois;clients_finaux
+R0193;Impression Cardinal Turin;imprimeur;Turin;oui;grand;actif;2026-05-29;3;1959;239;"collectivités ; festivals"
+R0206;Imprim'Mistral Milan;sérigraphe;Milan;non;grand;dormant;2026-02-08;113;1200;144;"clubs sportifs ; associations"
+R0449;Studio Amarante;agence;Valence;oui;grand;actif;2026-05-24;8;1760;163;"brasseries et bars ; clubs sportifs"
+R0610;Studio Sarment Limoges;agence;Limoges;non;grand;actif;2026-05-29;3;1992;122;"brasseries et bars ; clubs sportifs"
+R0616;Sérigraphie Granit;sérigraphe;Nancy;non;grand;actif;2026-05-31;1;1059;210;"festivals ; clubs sportifs"
+R0722;Sérigraphie Solstice;sérigraphe;Clermont-Ferrand;non;grand;actif;2026-05-29;3;2093;172;"brasseries et bars ; clubs sportifs"
+R0742;Marquage Nacre Avignon;sérigraphe;Avignon;oui;grand;actif;2026-05-27;5;1283;152;"brasseries et bars ; collectivités"
+R1183;Studio Hélice Valence;agence;Valence;oui;grand;dormant;2026-03-15;78;1805;174;"clubs sportifs ; entreprises"
+R1414;Broderie Hélice Quimper;brodeur;Quimper;non;moyen;actif;2026-05-31;1;957;112;"festivals ; collectivités"
+R1895;Marquage Perspective Barcelone;sérigraphe;Barcelone;non;grand;actif;2026-05-31;1;1026;151;"festivals ; clubs sportifs"
+R2209;Studio Calanque Bayonne;sérigraphe;Bayonne;non;grand;dormant;2026-01-27;125;2176;153;"associations ; clubs sportifs"
